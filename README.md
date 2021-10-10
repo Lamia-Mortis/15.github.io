@@ -1,2 +1,2 @@
-# the-world-of-my-mind
+# lamia-mortis.github.io
 Optional
